@@ -1,4 +1,5 @@
-// Emin Berkay Daðlar 2304400 - EE442 PE3 File System
+// github.com/eminberkayd
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
